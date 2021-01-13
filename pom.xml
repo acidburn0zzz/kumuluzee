@@ -63,7 +63,7 @@
         <javassist.version>3.23.1-GA</javassist.version>
         <hikari.version>2.7.8</hikari.version>
         <yaml.version>1.18</yaml.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <maven.plugin.api.version>3.5.4</maven.plugin.api.version>
         <maven-plugin-annotations.version>3.5.2</maven-plugin-annotations.version>
         <mojo-executor.version>2.3.0</mojo-executor.version>
